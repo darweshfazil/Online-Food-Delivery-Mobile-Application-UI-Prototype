@@ -1,0 +1,2 @@
+# Online-Food-Delivery-Mobile-Application-UI-Prototype
+This repository consists of Sample Online Food Delivery Mobile Application UI Prototype, crafted using Adobe XD.  This Artboard Consists of 2 flows namely Flow 1 consisting of Customes' side Application User Experience and Flow 2 consisting of the Riders' Application User Experience step by step. This Artboard has both Placing a new order and cancelling an existing order User Experience in the same flow.
